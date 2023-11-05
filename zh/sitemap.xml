@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manoj-hugo.netlify.app/zh/basics/</loc>
+    <loc>/zh/basics/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manoj-hugo.netlify.app/en/basics/"
+                href="/en/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://manoj-hugo.netlify.app/fr/basics/"
+                href="/fr/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://manoj-hugo.netlify.app/zh/basics/"
+                href="/zh/basics/"
                 />
   </url><url>
-    <loc>https://manoj-hugo.netlify.app/zh/categories/</loc>
+    <loc>/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manoj-hugo.netlify.app/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://manoj-hugo.netlify.app/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://manoj-hugo.netlify.app/zh/categories/"
+                href="/zh/categories/"
                 />
   </url><url>
-    <loc>https://manoj-hugo.netlify.app/zh/</loc>
+    <loc>/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manoj-hugo.netlify.app/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://manoj-hugo.netlify.app/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://manoj-hugo.netlify.app/zh/"
+                href="/zh/"
                 />
   </url><url>
-    <loc>https://manoj-hugo.netlify.app/zh/tags/</loc>
+    <loc>/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://manoj-hugo.netlify.app/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://manoj-hugo.netlify.app/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://manoj-hugo.netlify.app/zh/tags/"
+                href="/zh/tags/"
                 />
   </url>
 </urlset>
