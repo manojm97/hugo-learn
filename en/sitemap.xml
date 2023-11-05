@@ -2,489 +2,489 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/basics/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/basics/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/basics/"
+                href="https://manoj-hugo.netlify.app/fr/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/basics/"
+                href="https://manoj-hugo.netlify.app/zh/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/basics/"
+                href="https://manoj-hugo.netlify.app/en/basics/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/pages/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/pages/"
+                href="https://manoj-hugo.netlify.app/fr/cont/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/pages/"
+                href="https://manoj-hugo.netlify.app/en/cont/pages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/"
+                href="https://manoj-hugo.netlify.app/fr/cont/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/"
+                href="https://manoj-hugo.netlify.app/en/cont/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/archetypes/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/archetypes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/archetypes/"
+                href="https://manoj-hugo.netlify.app/fr/cont/archetypes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/archetypes/"
+                href="https://manoj-hugo.netlify.app/en/cont/archetypes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/basics/requirements/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/basics/requirements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/basics/requirements/"
+                href="https://manoj-hugo.netlify.app/fr/basics/requirements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/basics/requirements/"
+                href="https://manoj-hugo.netlify.app/en/basics/requirements/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/markdown/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/markdown/"
+                href="https://manoj-hugo.netlify.app/fr/cont/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/markdown/"
+                href="https://manoj-hugo.netlify.app/en/cont/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/basics/installation/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/basics/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/basics/installation/"
+                href="https://manoj-hugo.netlify.app/fr/basics/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/basics/installation/"
+                href="https://manoj-hugo.netlify.app/en/basics/installation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/syntaxhighlight/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/syntaxhighlight/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/basics/configuration/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/basics/configuration/"
+                href="https://manoj-hugo.netlify.app/fr/basics/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/basics/configuration/"
+                href="https://manoj-hugo.netlify.app/en/basics/configuration/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/menushortcuts/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/menushortcuts/"
+                href="https://manoj-hugo.netlify.app/fr/cont/menushortcuts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/menushortcuts/"
+                href="https://manoj-hugo.netlify.app/en/cont/menushortcuts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/basics/style-customization/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/basics/style-customization/"
+                href="https://manoj-hugo.netlify.app/fr/basics/style-customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/basics/style-customization/"
+                href="https://manoj-hugo.netlify.app/en/basics/style-customization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/icons/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/icons/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/cont/i18n/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/i18n/"
+                href="https://manoj-hugo.netlify.app/fr/cont/i18n/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/i18n/"
+                href="https://manoj-hugo.netlify.app/en/cont/i18n/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cont/tags/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/cont/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/cont/tags/"
+                href="https://manoj-hugo.netlify.app/fr/cont/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cont/tags/"
+                href="https://manoj-hugo.netlify.app/en/cont/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://manoj-hugo.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="https://manoj-hugo.netlify.app/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://manoj-hugo.netlify.app/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/documentation/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/tags/documentation/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/documentation/"
+                href="https://manoj-hugo.netlify.app/fr/tags/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/documentation/"
+                href="https://manoj-hugo.netlify.app/en/tags/documentation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://manoj-hugo.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="https://manoj-hugo.netlify.app/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://manoj-hugo.netlify.app/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tutorial/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/tags/tutorial/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/tutorial/"
+                href="https://manoj-hugo.netlify.app/fr/tags/tutorial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/tutorial/"
+                href="https://manoj-hugo.netlify.app/en/tags/tutorial/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/attachments/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/attachments/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/attachments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/attachments/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/attachments/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/button/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/button/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/button/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/button/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/button/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/button/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://manoj-hugo.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="https://manoj-hugo.netlify.app/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://manoj-hugo.netlify.app/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/credits/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/credits/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/credits/"
+                href="https://manoj-hugo.netlify.app/fr/credits/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/credits/"
+                href="https://manoj-hugo.netlify.app/en/credits/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/expand/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/expand/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/expand/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/expand/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/expand/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/expand/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/mermaid/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/mermaid/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/mermaid/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/mermaid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/mermaid/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/mermaid/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/notice/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/notice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/notice/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/notice/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/notice/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-1/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-1/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-1/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-1/children-1-1/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-1/children-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-1/children-1-1/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-2/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-2/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-2/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-3/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-3/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-3/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-4/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-4/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-4/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/test/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/test/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/test/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/test/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/children/children-2/test3/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/children/children-2/test3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/children/children-2/test3/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/children/children-2/test3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/children/children-2/test3/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/children/children-2/test3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/showcase/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/showcase/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/vitrine/"
+                href="https://manoj-hugo.netlify.app/fr/vitrine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/showcase/"
+                href="https://manoj-hugo.netlify.app/en/showcase/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/siteparam/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/siteparam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/shortcodes/siteparam/"
+                href="https://manoj-hugo.netlify.app/fr/shortcodes/siteparam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/shortcodes/siteparam/"
+                href="https://manoj-hugo.netlify.app/en/shortcodes/siteparam/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/shortcodes/tabs/</loc>
+    <loc>https://manoj-hugo.netlify.app/en/shortcodes/tabs/</loc>
   </url>
 </urlset>

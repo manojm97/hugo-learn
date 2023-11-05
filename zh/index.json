@@ -1,27 +1,27 @@
 [
 {
-	"uri": "http://localhost:1313/zh/basics/",
+	"uri": "https://manoj-hugo.netlify.app/zh/basics/",
 	"title": "基础",
 	"tags": [],
 	"description": "",
 	"content": "章节 1 基础 了解该 Hugo 主题的特点以及背后的核心概念。\n"
 },
 {
-	"uri": "http://localhost:1313/zh/categories/",
+	"uri": "https://manoj-hugo.netlify.app/zh/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/zh/",
+	"uri": "https://manoj-hugo.netlify.app/zh/",
 	"title": "Hugo 主题的 Learn 文档",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/zh/tags/",
+	"uri": "https://manoj-hugo.netlify.app/zh/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
